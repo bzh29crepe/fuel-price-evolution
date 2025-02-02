@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+bokeh
+altair
+plotly
+matplotlib
+pydeck
